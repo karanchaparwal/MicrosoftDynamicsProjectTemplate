@@ -10,6 +10,7 @@ namespace MicrosoftDynamicsProjectTemplate
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
